@@ -6,6 +6,7 @@ from rest_framework.permissions import AllowAny
 
 
 class TestView(APIView):
+    # permission_classes = [AllowAny]
     # permission_classes = [IsAuthenticated]
 
     @staticmethod
