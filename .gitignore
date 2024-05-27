@@ -1,0 +1,4 @@
+/.venv
+/.idea
+/Shoppr/.env
+*.pyc
